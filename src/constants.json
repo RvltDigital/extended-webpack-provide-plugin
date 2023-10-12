@@ -1,0 +1,18 @@
+{
+    "PLUGIN_NAME": "ExtendedProvidePlugin",
+    "MODULE_TYPE": [
+        "javascript/auto",
+        "javascript/dynamic",
+        "javascript/esm"
+    ],
+    "POSTFIX": {
+        "FN": ".fn",
+        "STATIC": ".static",
+        "DEV": ".dev",
+        "PROD": ".prod"
+    },
+    "ENV": {
+        "DEV": "development",
+        "PROD": "production"
+    }
+}
