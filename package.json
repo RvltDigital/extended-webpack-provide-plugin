@@ -2,6 +2,7 @@
   "name": "extended-webpack-provide-plugin",
   "version": "1.0.0",
   "description": "",
+  "repository": "https://github.com/RvltDigital/extended-webpack-provide-plugin",
   "main": "src/index.js",
   "author": "Michal Sindelar",
   "license": "MIT",
