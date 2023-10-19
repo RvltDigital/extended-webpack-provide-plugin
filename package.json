@@ -1,13 +1,15 @@
 {
   "name": "extended-webpack-provide-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "repository": "https://github.com/RvltDigital/extended-webpack-provide-plugin",
   "main": "src/index.js",
   "author": "Michal Sindelar",
   "license": "MIT",
+  "dependencies": {
+    "lodash.snakecase": "^4.1.1"
+  },
   "devDependencies": {
-    "lodash.snakecase": "^4.1.1",
     "webpack": "^5.88.2"
   },
   "peerDependencies": {
